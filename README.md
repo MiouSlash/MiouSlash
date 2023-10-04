@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @MiouSlash alias Josué MENAGER <br>
-🔭 Currently in 1st year of EPITECH Paris<br>🌱 I’m currently learning C, JS, C#, CSS<br>⚡ Been a high level athlete in France (Hammer Throw)
+🔭 Currently in 2nd year of EPITECH Paris<br>🌱 I’m currently learning C, JS, C#, CSS<br>⚡ Been a high level athlete in France (Hammer Throw)
 
 
 ## 🌐 Socials:
